@@ -108,6 +108,14 @@ body {
   /* height: auto; */
 }
 
+.centered {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+
 .six .hat {
   left: 41.5%;
   position: absolute;
